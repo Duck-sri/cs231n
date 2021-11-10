@@ -35,8 +35,3 @@
     * CNN - Architecture, Conv and Pooling Layers
     * Understanding and Vis of CNN layers
     * Transfer Learning and fine tuning CNN
-
-## Next
-
-1. [Course on Publishing](https://cs231n.github.io/choose-project/)
-2. [RNN](https://cs231n.github.io/rnn/)
