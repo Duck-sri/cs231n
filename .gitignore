@@ -132,3 +132,4 @@ dmypy.json
 
 # removing all the data stuff
 data
+.DS_Store
